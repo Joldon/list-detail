@@ -1,0 +1,418 @@
+[
+  {
+    "published_date": "1637157600",
+    "level": "1",
+    "title": "Update-Mittwoch: Google, Microsoft und Zoom schlie\u00dfen Sicherheitsl\u00fccken",
+    "body": "SiBa informiert Sie jeden Mittwoch \u00fcber Sicherheitsupdates verschiedener Hersteller von Soft-und Hardware. Die Sicherheitsupdates schlie\u00dfen unterschiedliche Sicherheitsl\u00fccken, \u00fcber die kriminelle Hacker Schadsoftware ausf\u00fchren und pers\u00f6nliche Daten abgreifen k\u00f6nnen.\r\n\r\nHier finden Sie ausgew\u00e4hlte Hersteller, die Sicherheitsupdates ver\u00f6ffentlicht haben:\r\n\r\n1. Google\r\n\r\nDas US-Unternehmen warnt zurzeit vor insgesamt 25 Sicherheitsl\u00fccken im hauseigenen Browser Chrome. \u00dcber diese k\u00f6nnen Kriminelle Schadsoftware auf fremden Computern installieren und ausf\u00fchren. F\u00fcr einem Missbrauch der Schwachstelle reicht es aus, eine mit der Schadsoftware infizierte Webseite aufzurufen bzw. einen Link zu einer solchen Seite anzuklicken. Weitere Details nannte Google nicht.\r\n\r\nDas Risiko wird von Google selbst, aber auch vom Bundesamt f\u00fcr Sicherheit in der Informationstechnik (BS) als mittel bis sehr hoch eingesch\u00e4tzt. Die Schwachstelle wurde aber bisher nicht von Hackern ausgenutzt.\r\n\r\nSiBa r\u00e4t zur Aktualisierung des Browsers auf die Version 96.0.4664.45. Das geht bei Windows so: Sie klicken auf die drei Punkte oben rechts und w\u00e4hlen im Men\u00fc \u0022Hilfe\u0022 und klicken dann auf \u0022\u00dcber Google Chrome\u0022. Das Update wird daraufhin automatisch installiert.\r\n\r\nZuk\u00fcnftig werden weitere Anbieter Sicherheitsupdates f\u00fcr jene Browser bereitstellen, die auf Chrome basieren. Dazu geh\u00f6ren die Browser Microsoft Edge, Brave, Vivaldi und Opera.\r\n\r\n2. Microsoft\r\n\r\nMicrosoft berichtet von einer Schwachstelle im Betriebssystem Windows, insbesondere im Update-Assistenten. Betroffen sind die Versionen Windows 7, 8.1., 10 und 11. .Au\u00dferdem betroffen: Microsoft Windows Server 2008, 2012, 2016, 2019 und 2022. Kriminelle k\u00f6nnen \u00fcber die Schwachstelle auf den PC bzw. auf das lokale System zugreifen, pers\u00f6nliche Daten einsehen, Dateien bearbeiten und l\u00f6schen.\r\n\r\nDas Risiko wird vom BSI als mittel eingestuft.\r\n\r\nSiBa r\u00e4t zur Akutalisierung des Betriebsystems bzw. des Update-Assistenten mittels Download \u00fcber die Webseite (siehe Link unten).\r\n\r\n3. Zoom\r\n\r\nBereits letzten Freitag hat das Unternehmen Zoom Inc. f\u00fcr seine gleichnamige Videkonferenzsofware ein Update bereitgestellt. Dieses schlie\u00dft mehrere Schwachstellen, \u00fcber die Hacker falsche Informationen darstellen, Sicherheitseinstellungen umgehen, Informationen offenlegen und Schadsoftware ausf\u00fchren k\u00f6nnen. Offenbar wurden die Schwachstellen in der Vergangenheit bereits ausgenutzt.\r\n\r\nDas Risiko wird vom BSI als mittel eingestuft.\r\n\r\nSiBa r\u00e4t zur Akutalisierung der Software, bei Windows beispielsweise auf die Version 5.8.4. \u00d6ffnen Sie dazu das Programm Zoom auf Ihrem PC, klicken Sie auf Anmelden. Es erscheint kurz darauf automatisch ein Hinweis f\u00fcr das Update. Folgen Sie den Anweisungen des Prorgramms \u0022Zoom Updater.\u0022 Sie k\u00f6nnen alternativ auch die neuste Version von der Webseite heunterladen und installieren. Auf Smartphones erfolgt die Aktualisierung \u00fcber den Google Play Store bzw. \u00fcber den Apple App Store.\r\n",
+    "categories": ["41", "42", "45"],
+    "url_action": [
+      {
+        "url": "https://www.pcwelt.de/ratgeber/Update-auf-Chrome-96-behebt-25-Schwachstellen-11134576.html",
+        "title": "PC-Welt: Update auf Chrome 96 behebt 25 Schwachstellen"
+      },
+      {
+        "url": "https://www.heise.de/news/Zoom-dichtet-Sicherheitsluecken-in-mehreren-Produkten-und-Clients-ab-6265648.html",
+        "title": "Heise.de: Zoom dichtet Sicherheitsl\u00fccken in mehreren Produkten und Clients ab "
+      }
+    ],
+    "url_explanation": [
+      {
+        "url": "https://support.google.com/chrome/answer/95414",
+        "title": "Google:Chrome aktualisieren"
+      },
+      {
+        "url": "https://www.microsoft.com/de-de/software-download/windows10",
+        "title": "Microsoft: Windows November Update (Download)"
+      },
+      {
+        "url": "https://support.zoom.us/hc/de/articles/201362233-Das-neueste-Zoom-Update-herunterladen",
+        "title": "Zoom: Das neueste Zoom-Update herunterladen "
+      }
+    ],
+    "id": "4859"
+  },
+  {
+    "published_date": "1636556400",
+    "level": "1",
+    "title": "Update-Mittwoch: Adobe und AMD schlie\u00dfen Sicherheitsl\u00fccken",
+    "body": "SiBa informiert Sie jeden Mittwoch \u00fcber Sicherheitsupdates verschiedener Hersteller von Software und Hardware. Die Sicherheitsupdates schlie\u00dfen unterschiedliche Sicherheitsl\u00fccken, \u00fcber die kriminelle Hacker Schadsoftware ausf\u00fchren und pers\u00f6nliche Daten abgreifen k\u00f6nnen.\r\n\r\nHier finden Sie ausgew\u00e4hlte Hersteller, die diese Woche Sicherheitsupdates ver\u00f6ffentlicht haben:\r\n\r\n1. Adobe\r\n\r\nDas US-Unternehmen warnt zurzeit vor Sicherheitsl\u00fccken in der Creative Cloud und in den Anwendung \u0022InCopy\u0022 und \u0022RoboHelp Server\u0022. Die Schwachstellen wurden von Adobe und vom Bundesamt f\u00fcr Sicherheit in der Informationstechnik (BSI) teilweise als \u0022hoch\u0022, teilweise als \u0022mittel\u0022 eingestuft. Durch die Schwachstellen k\u00f6nnen Angreifer Schadsoftware ausf\u00fchren bzw. die Creative Cloud durch massenhafte \u00dcberlastungsanfragen zum Abst\u00fcrzen bringen. Weitere Details sind aber nicht bekannt. Es ist auch unklar, ob die Schwachstellen bereits von Hackern ausgenutzt worden sind. Bei der Creative Cloud sind ausschlie\u00dflich Nutzer:innen unter macOS betroffen, \u0022InCopy\u0022 und \u0022Robohelp Server\u0022 sind unter macOS und Windows angreifbar.\r\n\r\nSiBa r\u00e4t zur Aktualisierung der Awendungen, sofern dies nicht automatisch geschieht.\r\n\r\n2. AMD\r\n\r\nAMD hat eine Sicherheitsl\u00fccke im Prozessor EPYC geschlossen. Das Bundesamt f\u00fcr Sicherheit in der Informationstechnik (BSI) teilt mit, dass Kriminelle mehrere Schwachstellen im AMD Prozessor ausnutzen k\u00f6nnen, um Schadsoftware auszuf\u00fchren oder Systeme zu \u00fcberlasten. Durch gezielte Angreiffe k\u00f6nnen die Hacker pers\u00f6nliche und vertrauliche Daten offenlegen und Dateien manipulieren. Dabei umgehen sie Sicherheitsma\u00dfnahmen.\r\n\r\nDas Risko wird vom BSI als sehr hoch eingestuft\r\n\r\nHier empfiehlt SiBa eine Akutalisierung der Software f\u00fcr der Prozessor, die der Hersteller AMD bereitstellt. ",
+    "categories": ["37"],
+    "url_action": [
+      {
+        "url": "https://www.heise.de/news/Patchday-Adobe-schliesst-Schadcode-Luecken-in-InCopy-und-RoboHelp-Server-6263083.html",
+        "title": "Heise.de: Adobe schlie\u00dft Schadcode-L\u00fccken in InCopy und RoboHelp Server "
+      },
+      {
+        "url": "https://www.bsi.bund.de/SharedDocs/Warnmeldungen/DE/TW/2021/11/warnmeldung_tw-t21-0221.html?nn=520060",
+        "title": "BSI: AMD Prozessor: Mehrere Schwachstellen"
+      }
+    ],
+    "url_explanation": [
+      {
+        "url": "https://helpx.adobe.com/de/creative-cloud/help/creative-cloud-updates.html",
+        "title": "Adobe: Aktualisierung der Creative Cloud"
+      }
+    ],
+    "id": "4854"
+  },
+  {
+    "published_date": "1636443000",
+    "level": "0",
+    "title": "Social Engineering-Angriff auf Robinhood",
+    "body": "Robinhood ist eine Plattform f\u00fcr den direkten Handel mit Aktien, Fonds und anderen Produkten an der B\u00f6rse mittels App oder Webseite. Wie das Unternehmen nun bekannt gab, wurde es Anfang November Opfer eines erfolgreichen Angriffs: Kriminellen gelang es, mittels sogenanntem Social Engineering Mitarbeiter:innen dazu zu bringen, ihnen Zugang zu sensiblen Kundeninformationen zu gew\u00e4hren.\r\n\r\nAls \u201eSocial Engineering\u201c bezeichnet man den Versuch, mithilfe psychologischer Tricks und T\u00e4uschung Zielpersonen zu bestimmten Handlungen zu bringen. Dabei handelt es sich in der Regel um eine besonders gezielte Form des Phishing: Beispielsweise t\u00e4uschen Angreifer mit authentisch wirkenden E-Mails die Identit\u00e4t Vorgesetzter vor, um bei Mitarbeiter:innen Zahlungen anzuweisen oder Zugangsdaten zu erfragen.\r\n\r\nLaut Bericht wurden bei Robinhood die E-Mail-Adressen von rund 5 Millionen Kund:innen ergattert, dar\u00fcber hinaus die Namen von weiteren 2 Millionen. Von einer kleineren Gruppe von Personen (rund 300) gerieten weitere sensible Daten in die H\u00e4nde der Angreifer. Kritische Informationen wie Zahlungsdaten seien laut Robinhood nicht abgegriffen worden. Das Unternehmen hat die besonders betroffenen Kund:innen direkt informiert.\r\n\r\nSiBa r\u00e4t Unternehmen und Betrieben zur regelm\u00e4\u00dfigen Sensibilisierung von Mitarbeiter:innen rundum die Themen Social Engineering und Phishing: H\u00e4ufig ist es die \u201eSchwachstelle Mensch\u201c die es Angreifern erm\u00f6glicht, technische Sicherheitsvorkehrungen auszuschalten oder zu umgehen. Regelm\u00e4\u00dfige Schulungen und Awareness-Kampagnen sind deshalb ein wichtiger Baustein f\u00fcr mehr Sicherheit.\r\n",
+    "categories": ["39"],
+    "url_action": [
+      {
+        "url": "https://blog.robinhood.com/news/2021/11/8/data-security-incident",
+        "title": "Meldung von Robinhood zum Vorfall (auf Englisch)"
+      },
+      {
+        "url": "https://www.spiegel.de/netzwelt/robinhood-hackerangriff-bei-trading-app-a-9c1be850-d1c9-4c72-822b-e5879ebd4251",
+        "title": "SPIEGEL: Hacker greifen Tradingplattform Robinhood an"
+      }
+    ],
+    "url_explanation": [
+      {
+        "url": "https://www.sicher-im-netz.de/social-engineering-und-phishing-erkennen",
+        "title": "Social Engineering und Phishing erkennen"
+      }
+    ],
+    "id": "4847"
+  },
+  {
+    "published_date": "1635946200",
+    "level": "1",
+    "title": "Update-Mittwoch: Kritische Schwachstellen bei Android, Sicherheitsl\u00fccken bei Firefox und wichtige Updates f\u00fcr Bitdefender Endpoint Security/Total Security",
+    "body": "SiBa informiert Sie jeden Mittwoch \u00fcber Sicherheitsupdates. Diese schlie\u00dfen Sicherheitsl\u00fccken in Anwendungen und Betriebssystemen, sodass kriminelle Hacker \u00fcber sie keine pers\u00f6nlichen oder vertraulichen Daten mehr abgreifen und keine Systeme mehr mit Schadsoftware angreifen k\u00f6nnen. Oder sie bieten neue Features f\u00fcr den Schutz von privaten Daten.\r\n\r\nSiBa r\u00e4t, den Mittwoch zu nutzen, um die zur Verf\u00fcgung gestellten Sicherheitsupdates zu installieren, sofern das nicht automatisch geschieht.\r\n\r\n1. Patch-Day bei Android schlie\u00dft mehrere Schwachstellen\r\nEine Reihe von Schwachstellen wurde bei verschiedenen Android-Versionen geschlossen. Neben mehreren als \u201ehoch\u201c eingestuften Sicherheitsl\u00fccken gibt es auch zwei \u201ekritische\u201c Schwachstellen, die von Angreifern genutzt werden k\u00f6nnen, um aus der Ferne Schadcode auf Ger\u00e4ten auszuf\u00fchren. Betroffen sind Ger\u00e4te mit Android 9, 10, 11 oder 12. Pr\u00fcfen Sie auf Ihrem Android-Ger\u00e4t, ob ggf. Updates bereitstehen und installieren sie diese umgehend.\r\n\r\n2. Mozilla behebt mehrere Sicherheitsl\u00fccken im Browser Firefox\r\nDie neue Version von Firefox 94 schlie\u00dft insgesamt 13 Sicherheitsl\u00fccken, bei der ESR-Version 91.3 sind es immerhin 10 Schwachstellen. Zwar sind keine kritischen Schwachstellen dabei, dennoch r\u00e4t SiBa dazu, den genutzten Browser immer aktuell zu halten: Der Webbrowser ist in vielen F\u00e4llen das Einfallstor f\u00fcr Schadsoftware und sollte deshalb besonders sicher sein.\r\n\r\n3. Bitdefender schlie\u00dft Schwachstellen in eigener Sicherheitssoftware\r\nWindows Bitdefender Endpoint Security sowie Total Security sind IT-Sicherheitsl\u00f6sungen, die vor allem in Unternehmen zum Einsatz kommen. Mit einem Update hat der Anbieter nun jedoch zwei Sicherheitsl\u00fccken geschlossen, mit deren Hilfe ausgerechnet die Sicherheitssoftware selbst als Einfallstor f\u00fcr Angreifer genutzt werden konnte. Die Updates werden automatisch installiert, die Versionen Endpoint Security Tools 7.2.1.65 und Total Security 25.0.26 gelten als sicher.\r\n",
+    "categories": ["41", "42"],
+    "url_action": [
+      {
+        "url": "https://www.bsi.bund.de/SharedDocs/Warnmeldungen/DE/TW/2021/11/warnmeldung_tw-t21-0218.html",
+        "title": "Sicherheitshinweis des BSI zu Schwachstellen bei Android"
+      },
+      {
+        "url": "https://www.mozilla.org/en-US/security/advisories/mfsa2021-48/",
+        "title": "Liste der behobenen Sicherheitsl\u00fccken in Firefox 94 (Englisch)"
+      },
+      {
+        "url": "https://www.heise.de/news/Sicherheitspatch-Bitdefender-Endpoint-Security-als-Einstiegspunkt-fuer-Angreifer-6237552.html",
+        "title": "Artikel zu Sicherheitsl\u00fccken bei Bitdefender bei heise"
+      }
+    ],
+    "url_explanation": [
+      {
+        "url": "https://support.google.com/android/answer/7680439?hl=de",
+        "title": "Hilfe-Seite zur Aktualisierung von Android"
+      },
+      {
+        "url": "https://support.mozilla.org/de/kb/firefox-auf-die-letzte-version-aktualisieren",
+        "title": "Hilfe-Seite zur Aktualisierung von Firefox"
+      }
+    ],
+    "id": "4844"
+  },
+  {
+    "published_date": "1635945300",
+    "level": "1",
+    "title": "Apps mit Schadsoftware im Google Play Store",
+    "body": "Angreifern ist es gelungen, an den Sicherheitsvorkehrungen von Google vorbei Apps mit Schadsoftware in den offiziellen Play Store zu schmuggeln. Das perfide: Die betreffenden Apps erf\u00fcllten vordergr\u00fcndig ihren offiziell angegebenen Zweck und waren deshalb f\u00fcr Nutzer:innen nicht sofort als unseri\u00f6s erkennbar. Im Hintergrund versuchten sich die Apps jedoch weitreichende Rechte zu verschaffen und die Kontrolle \u00fcber betreffende Ger\u00e4te zu \u00fcbernehmen. So kann der Trojaner beispielsweise SMS-Nachrichten beim Online-Banking abfangen oder Passw\u00f6rter auslesen.\r\n\r\nInsgesamt 19 betroffene Apps haben Sicherheitsforscher identifiziert, manche davon wurden bis zur Entfernung aus dem Play Store bereits mehr als 10.000 Mal heruntergeladen. Auch in den App Stores von Amazon oder Samsung wurden die Trojaner verbreitet. Die prominentesten Vertreter sind die Apps \u201eAll Passwords\u201c, \u201eAnti-ads Browser\u201c, \u201eData Saver\u201c, \u201eLite Launcher\u201c, \u201eMy Phone\u201c, \u201eNight Light\u201d sowie \u201ePhone Plus\u201d. \r\n\r\nSiBa r\u00e4t Android-Nutzer:innen, zu pr\u00fcfen, ob eine der genannten Apps installiert wurde. Sofern dies der Fall ist, sollte sie umgehend gel\u00f6scht werden. Leider ist die Gefahr jedoch damit nicht unbedingt gebannt: Hat sich die Schadsoftware einmal im Betriebssystem eingenistet, kann man sich nur nach dem vollst\u00e4ndigen Zur\u00fccksetzen sicher sein, dass sie weg ist. SiBa r\u00e4t deshalb im Zweifel, alle Daten zu sichern und das Ger\u00e4t neu einzurichten.\r\n",
+    "categories": ["42"],
+    "url_action": [
+      {
+        "url": "https://www.heise.de/news/AbstractEmu-Trojaner-schleicht-sich-in-Google-Play-und-rootet-Android-Geraete-6245987.html",
+        "title": "Artikel zum Vorfall bei heise"
+      }
+    ],
+    "url_explanation": [
+      {
+        "url": "https://support.google.com/android/answer/6088915?hl=de",
+        "title": "Hilfe-Seite zum Zur\u00fccksetzen von Android auf Werkseinstellungen"
+      }
+    ],
+    "id": "4843"
+  },
+  {
+    "published_date": "1635342300",
+    "level": "1",
+    "title": "Update-Mittwoch: Kritische Schwachstellen bei Adobe-Programmen und Sicherheitsl\u00fccken bei Apple-Produkten",
+    "body": "SiBa informiert Sie jeden Mittwoch \u00fcber Sicherheitsupdates. Diese schlie\u00dfen Sicherheitsl\u00fccken in Anwendungen und Betriebssystemen, sodass kriminelle Hacker \u00fcber sie keine pers\u00f6nlichen oder vertraulichen Daten mehr abgreifen und keine Systeme mehr mit Schadsoftware angreifen k\u00f6nnen. Oder sie bieten neue Features f\u00fcr den Schutz von privaten Daten.\r\n\r\nSiBa r\u00e4t, den Mittwoch zu nutzen, um die zur Verf\u00fcgung gestellten Sicherheitsupdates zu installieren, sofern das nicht automatisch geschieht.\r\n\r\nSicherheitsupdates f\u00fcr viele Adobe-Programme\r\n\r\nAdobe hat mit Updates f\u00fcr Photoshop, Premiere Pro, Lightroom, InDesign und vielen weiteren Programmen eine Reihe kritischer Sicherheitsl\u00fccken geschlossen. Mit deren Hilfe soll es Angreifern m\u00f6glich sein, Programmcode auf entsprechende Ger\u00e4te zu schleusen, Programme abst\u00fcrzen zu lassen oder auf andere Daten im Arbeitsspeicher zuzugreifen. Dementsprechend r\u00e4t Adobe, die entsprechenden Updates so schnell wie m\u00f6glich zu installieren. Es ist nicht bekannt, ob die Schwachstellen bislang ausgenutzt wurden.\r\n\r\nUpdate schlie\u00dft bekannte Sicherheitsl\u00fccke in Apple-Produkten\r\n\r\nBei iOS und iPadOS wurde mit einem Update auf 15.0.2 bereits vor zwei Wochen eine schwerwiegende Schwachstelle geschlossen, von der bekannt ist, dass sie von Angreifern aktiv genutzt wird. Nun kommt endlich auch das entsprechende Update f\u00fcr iOS bzw. iPadOS 14: In der Version 14.8.1 ist nun auch hier vorerst die Gefahr gebannt. Dar\u00fcber hinaus wurden weitere Bugs und kleinere Schwachstellen behoben. SiBa r\u00e4t allen Nutzer:innen mit iOS oder iPadOS 14-Ger\u00e4ten dringend, das Update schnellstm\u00f6glich zu installieren.\r\n",
+    "categories": ["41", "42"],
+    "url_action": [
+      {
+        "url": "https://support.apple.com/de-de/HT212868",
+        "title": "Apple-Webseite zum aktuellen Update (auf Englisch)"
+      },
+      {
+        "url": "https://www.heise.de/news/Adobe-beseitigt-teils-kritische-Schwachstellen-aus-vielen-Produkten-6232663.html",
+        "title": "Heise-Artikel zu den ver\u00f6ffentlichten Updates"
+      }
+    ],
+    "url_explanation": [
+      {
+        "url": "https://support.apple.com/de-de/HT204204",
+        "title": "Anleitung: iOS bzw. iPadOS aktualisieren"
+      },
+      {
+        "url": "https://helpx.adobe.com/de/download-install.html",
+        "title": "Adobe: Aktuelle Programmversionen herunterladen"
+      }
+    ],
+    "id": "4816"
+  },
+  {
+    "published_date": "1635237000",
+    "level": "1",
+    "title": "Unseri\u00f6se Smartphone-Ortungsdienste sind Abo-Fallen",
+    "body": "Verlorene Handys oder Tablets kann man unter bestimmten Umst\u00e4nden mit sogenannten Ortungsdiensten lokalisieren lassen - auf einer Karte wird dann angezeigt, wo sich das Ger\u00e4t zu welchem Zeitpunkt befand. Doch Vorsicht: So mancher Ortungsdienst versucht aus der Not der Suchenden besonders viel Profit zu schlagen. Anbieter wie www.locating.mobi, www.geolite.mobi, www.goandfind.online sind Abo-Fallen!\r\n\r\nZwar werben die Anbieter auf der Startseite mit besonders g\u00fcnstigen Geb\u00fchren \u2013 f\u00fcr 50 Cent f\u00fcr einen Tag kann man das Angebot angeblich unverbindlich testen \u2013 doch schon wenige Tage sp\u00e4ter erfolgen weitere Abbuchungen. Auf diese zus\u00e4tzlichen Kosten wird nicht transparent hingewiesen, gesetzliche Regelungen zur Gestaltung von Bestellseiten werden missachtet. Damit sind vermeintliche Vertr\u00e4ge mit dem Anbieter ung\u00fcltig.\r\n\r\nBetroffene bleiben jedoch meist auf den Kosten sitzen: Die betr\u00fcgerischen Betreiber der Webseiten befinden sich oft im Ausland und sind kaum greifbar. Sind Sie in eine Abo-Falle getappt, sollten Sie umgehend Ihre Bank kontaktieren und versuchen, dort entsprechende Abbuchungen zur\u00fcckzuverlangen und neue zu verhindern. Unter Umst\u00e4nden k\u00f6nnen Sie auch die Zur\u00fcckerstattung der Betr\u00e4ge bei Ihrem Zahlungsdienstleister anfordern.\r\n",
+    "categories": ["43"],
+    "url_action": [
+      {
+        "url": "https://www.mimikama.at/aktuelles/smartphone-ortungsdienste/",
+        "title": "Artikel zu betr\u00fcgerischen Ortungsdiensten bei mimikama"
+      }
+    ],
+    "url_explanation": [
+      {
+        "url": "https://www.vzhh.de/themen/telefon-internet/abofallen/abofalle-im-internet-zahlen-sie-nicht",
+        "title": "Hilfeseite zu Abofallen bei der Verbraucherzentrale Hamburg"
+      }
+    ],
+    "id": "4815"
+  },
+  {
+    "published_date": "1634107500",
+    "level": "1",
+    "title": "Update-Mittwoch: LibreOffice und OpenOffice, Apache Webserver, Microsoft-Produkte",
+    "body": "SiBa informiert Sie jeden Mittwoch \u00fcber Sicherheitsupdates. Diese schlie\u00dfen Sicherheitsl\u00fccken in Anwendungen und Betriebssystemen, sodass kriminelle Hacker \u00fcber sie keine pers\u00f6nlichen oder vertraulichen Daten mehr abgreifen und keine Systeme mehr mit Schadsoftware angreifen k\u00f6nnen. Oder sie bieten neue Features f\u00fcr den Schutz von privaten Daten.\r\nSiBa r\u00e4t, den Mittwoch zu nutzen, um die zur Verf\u00fcgung gestellten Sicherheitsupdates zu installieren, sofern das nicht automatisch geschieht.\r\n\r\n1. LibreOffice und OpenOffice\r\nBei LibreOffice und OpenOffice handelt es sich um Office-Pakete, die als Open Source-Alternative zu den Office-Produkten von Microsoft kostenlos angeboten werden. Nun haben Sicherheitsforscher zwei schwerwiegende Sicherheitsl\u00fccken festgestellt: Angreifer k\u00f6nnen den Programmen gef\u00e4lschte Unterschriften bzw. Signaturen unterjubeln. Aktualisieren Sie LibreOffice auf eine Version ab 7.0.5 sowie OpenOffice auf 4.1.11 um sich zu sch\u00fctzen.\r\n\r\n2. Apache Webserver\r\nBeim Apache HTTP Server handelt es sich um Software, die auf Webservern daf\u00fcr zust\u00e4ndig ist, Webseiten und Inhalte an Besucher auszuspielen. Eine dort nun geschlossene Schwachstelle gilt deshalb als besonders schwerwiegend: Apache ist auf unz\u00e4hligen mit dem Internet verbundenen Ger\u00e4ten im Einsatz. Aufgrund der Sicherheitsl\u00fccke bei den Versionen 2.4.49 und 2.4.50 ist es Angreifern unter bestimmten Umst\u00e4nden m\u00f6glich, Schadcode auf dem Webserver auszuf\u00fchren. Nutzen Sie oder Ihr Unternehmen einen entsprechenden Webserver, sollten Sie so schnell wie m\u00f6glich das Sicherheitsupdate installieren.\r\n\r\n3. Patch Day bei Microsoft\r\nMicrosoft hat f\u00fcr Produkte des Konzerns im Rahmen des Patch Tuesday im Oktober zahlreiche Schwachstellen geschlossen \u2013 insgesamt 71 Sicherheitsl\u00fccken. Darunter auch zwei, die von Microsoft als \u201ekritisch\u201c beurteilt werden: Eine betrifft Webserver mit Microsoft Exchange, die andere das Betriebssystem Windows. SiBa empfiehlt, insbesondere Updates f\u00fcr Windows immer schnellstm\u00f6glich zu installieren \u2013 ein aktuelles Betriebssystem ist grundlegend f\u00fcr IT-Sicherheit.\r\n",
+    "categories": ["41", "45"],
+    "url_action": [
+      {
+        "url": "https://de.libreoffice.org/download/download/",
+        "title": "Aktuelle Version von LibreOffice herunterladen"
+      },
+      {
+        "url": "https://www.openoffice.de/",
+        "title": "Aktuelle Version von OpenOffice herunterladen"
+      },
+      {
+        "url": "https://httpd.apache.org/download.cgi",
+        "title": "Aktuelle Version von Apache HTTP Server herunterladen"
+      },
+      {
+        "url": "https://support.microsoft.com/de-de/windows/windows-aktualisieren-3c5ae7fc-9fb6-9af1-1984-b5e0412c556a",
+        "title": "Windows aktualisieren"
+      }
+    ],
+    "url_explanation": [
+      {
+        "url": "https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Cyber-Sicherheitsempfehlungen/Updates-Browser-Open-Source-Software/Wichtige-Softwareupdates/wichtige-softwareupdates_node.html",
+        "title": "BSI: Softwareupdates \u2013 ein Grundpfeiler der IT-Sicherheit"
+      }
+    ],
+    "id": "4803"
+  },
+  {
+    "published_date": "1634028300",
+    "level": "1",
+    "title": "Gef\u00e4lschte SMS mit angeblich verpassten Anrufen",
+    "body": "Nicht nur mit gef\u00e4lschten E-Mails versuchen Betr\u00fcger, Empf\u00e4nger auf unseri\u00f6se und betr\u00fcgerische Webseiten zu lenken, um pers\u00f6nliche Daten abzugreifen: Auch mit SMS \u00fcber angeblich verpasste Anrufe oder nicht zugestellte Pakete versuchen Kriminelle, Menschen in die Irre zu f\u00fchren. Dieses Vorgehen wird als \u201eSmishing\u201c bezeichnet, eine Abwandlung vom \u201ePhishing\u201c bei E-Mails.\r\n\r\nDerzeit erhalten wieder vermehrt Menschen entsprechende SMS-Nachrichten: Sie h\u00e4tten einen Anruf verpasst und die Person h\u00e4tte eine Nachricht hinterlassen. Um diese abzurufen, soll man einen Link \u00f6ffnen \u2013 der f\u00fchrt jedoch auf eine betr\u00fcgerische Webseite. Auf dieser werden pers\u00f6nliche Daten abgefragt, die dann bei den Kriminellen landen. Im schlimmsten Fall verbreitet die Webseite dar\u00fcber hinaus Schadsoftware.\r\n\r\nSiBa r\u00e4t, solche SMS-Nachrichten zu l\u00f6schen. Hinterl\u00e4sst ein Anrufer auf Ihrem Anrufbeantworter eine Nachricht, so werden Sie in der Regel von Ihrem Anbieter direkt informiert. Schauen Sie dar\u00fcber hinaus immer nur auf der Seite des Paketdienstleisters nach dem Status bei Ihrem Versand und ignorieren Sie verd\u00e4chtige SMS.\r\n",
+    "categories": ["42"],
+    "url_action": [
+      {
+        "url": "https://www.kurier.de/inhalt.die-polizei-warnt-neue-smishing-betrugsmasche-im-umlauf.205d7772-c82c-4f64-969d-b67cf324a9f3.html",
+        "title": "Artikel zur aktuellen Smishing-Welle beim Kurier"
+      }
+    ],
+    "url_explanation": [
+      {
+        "url": "https://www.sicher-im-netz.de/fuenf-dsin-verbrauchertipps-gegen-smishing-angriffe",
+        "title": "DsiN: F\u00fcnf DsiN-Verbrauchertipps gegen Smishing-Angriffe"
+      },
+      {
+        "url": "https://www.bsi.bund.de/DE/Service-Navi/Presse/Alle-Meldungen-News/Meldungen/Smishing_SMS-Phishing_090421.html",
+        "title": "BSI: \u0022Smishing\u0022 - Achtung vor SMS-Phishing"
+      }
+    ],
+    "id": "4801"
+  },
+  {
+    "published_date": "1633584600",
+    "level": "1",
+    "title": "Update-Mittwoch: SiBa-Update, Android, Firefox und Chrome",
+    "body": "Aufgrund eines Softwarefehlers funktionierte die SiBa-App auf manchen Android-Ger\u00e4ten die letzten Tage nicht mehr richtig: Beim \u00d6ffnen der App wurde statt der SiBa-Meldungen nur ein grauer Bildschirm angezeigt. Das gestern im Play Store ver\u00f6ffentlichte Update behebt das Problem. Vielen Dank an alle Nutzer:innen, die uns auf das Problem aufmerksam gemacht haben!\r\n\r\nAus diesem Grund kommt der Update-Mittwoch diese Woche einen Tag sp\u00e4ter: SiBa informiert Sie jeden Mittwoch \u00fcber Sicherheitsupdates verschiedener Hersteller von Software und Hardware. Die Sicherheitsupdates schlie\u00dfen unterschiedliche Sicherheitsl\u00fccken, \u00fcber die kriminelle Hacker Schadsoftware ausf\u00fchren und pers\u00f6nliche Daten abgreifen k\u00f6nnen.\r\n\r\nHier finden Sie ausgew\u00e4hlte Hersteller, die heute oder diese Woche Sicherheitsupdates ver\u00f6ffentlicht haben:\r\n\r\n1. Google: Android\r\nGoogle hat Sicherheitsupdates f\u00fcr Android 8.1, 9, 10 und 11 ver\u00f6ffentlicht, die mehrere kritische Schwachstellen schlie\u00dfen, mit deren Hilfe Angreifer unter bestimmten Umst\u00e4nden Schadsoftware auf betreffenden Ger\u00e4ten ausf\u00fchren k\u00f6nnen. Es gibt bislang keine Anzeichen daf\u00fcr, dass die L\u00fccken schon ausgenutzt wurden. SiBa r\u00e4t, entsprechende Updates umgehend zu installieren \u2013 je nach Ger\u00e4t und Hersteller kann es jedoch noch ein wenig dauern, bis die Aktualisierung auch f\u00fcr Sie verf\u00fcgbar ist.\r\n\r\n2. Mozialla: Firefox\r\nMozilla hat neue Firefox-Versionen ver\u00f6ffentlicht (93, ESR 78.15 und ESR 91.2), die mehrere Schwachstellen schlie\u00dfen. Das Risiko der Sicherheitsl\u00fccken reicht von \u201eMittel\u201c bis \u201eHoch\u201c; die gr\u00f6\u00dfte Gefahr besteht darin, dass Angreifer im Browser pr\u00e4parierte Elemente einblenden k\u00f6nnen, um Nutzer:innen in die Irre zu f\u00fchren. Installieren Sie deshalb zeitnah das Update.\r\n\r\n3. Google: Chrome\r\nBereits Anfang des Monats wurden weitere Sicherheitsupdates f\u00fcr den Browser Chrome ver\u00f6ffentlicht, der derzeit besonders im Visier von Angreifern liegt. Version 94.0.4606.71 schlie\u00dft zwei Sicherheitsl\u00fccken, auch hier gilt deshalb: Halten Sie Ihren Browser immer auf dem aktuellen Stand!\r\n",
+    "categories": ["41", "42", "45"],
+    "url_action": [
+      {
+        "url": "https://www.cyberfibel.de/digitale-kompetenzen/geraete-und-software-sicher-einrichten-und-pflegen/software-aktuell-halten/",
+        "title": "Cyberfibel: Software aktuell halten"
+      },
+      {
+        "url": "https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Cyber-Sicherheitsempfehlungen/Updates-Browser-Open-Source-Software/Wichtige-Softwareupdates/wichtige-softwareupdates_node.html",
+        "title": "BSI: Softwareupdates \u2013 ein Grundpfeiler der IT-Sicherheit"
+      }
+    ],
+    "url_explanation": [
+      {
+        "url": "https://support.google.com/android/answer/7680439?hl=de",
+        "title": "Android aktualisieren"
+      },
+      {
+        "url": "https://support.mozilla.org/de/kb/firefox-auf-die-letzte-version-aktualisieren",
+        "title": "Firefox aktualisieren"
+      },
+      {
+        "url": "https://support.google.com/chrome/answer/95414?hl=de\u0026co=GENIE.Platform%3DDesktop",
+        "title": "Chrome aktualisieren"
+      }
+    ],
+    "id": "4789"
+  },
+  {
+    "published_date": "1633413600",
+    "level": "0",
+    "title": "Entwarnung: Komplettausfall bei Facebook kein Sicherheitsrisiko",
+    "body": "Gestern kam es am sp\u00e4ten Nachmittag zu einem globalen Totalausfall bei Facebook: Das Netzwerk war f\u00fcr einige Stunden \u00fcberhaupt nicht erreichbar. Dar\u00fcber hinaus gab es erhebliche Einschr\u00e4nkungen bei anderen Diensten des Konzerns: Instagram und WhatsApp hatten mit schwerwiegenden St\u00f6rungen zu k\u00e4mpfen. Erst in der Nacht konnte Facebook das Problem beheben, seitdem sollten alle Dienste wieder voll funktionsf\u00e4hig sein.\r\n\r\nDer Ausfall hatte auch Konsequenzen jenseits von Facebook: Eine Reihe weiterer Webseiten und Dienste hatte in der Folge mit Einschr\u00e4nkungen zu k\u00e4mpfen. So gibt es Unternehmen, die beispielsweise WhatsApp f\u00fcr die interne Kommunikation nutzen oder von Facebook angebotene Bausteine als Teil ihrer eigenen Webseiten verwenden. Auch mehrere DNS-Server gingen in die Knie: Eine Flut von Anfragen nach der zur Domain facebook.com geh\u00f6renden IP-Adresse \u00fcberforderte die Infrastruktur.\r\n\r\nIn einer Stellungnahme zum Vorfall erl\u00e4uterte der Konzern, dass der Ausfall durch einen technischen Fehler verursacht wurde und nicht durch einen Hackerangriff oder eine IT-Schwachstelle. Laut Facebook gibt es \u0022keine Anhaltspunkte daf\u00fcr, dass Nutzerdaten durch diesen Ausfall gef\u00e4hrdet wurden.\u0022\r\n",
+    "categories": ["44"],
+    "url_action": [
+      {
+        "url": "https://www.mimikama.at/aktuelles/facebook-und-instagram-down/",
+        "title": "Bericht zum Ausfall bei Mimikama"
+      }
+    ],
+    "url_explanation": [
+      {
+        "url": "https://engineering.fb.com/2021/10/04/networking-traffic/outage/",
+        "title": "Stellungnahme von Facebook (auf Englisch)"
+      }
+    ],
+    "id": "4787"
+  },
+  {
+    "published_date": "1632906900",
+    "level": "2",
+    "title": "Update-Mittwoch: Google, Microsoft und D-Link schlie\u00dfen Sicherheitsl\u00fccken",
+    "body": "SiBa informiert Sie jeden Mittwoch \u00fcber Sicherheitsupdates verschiedener Hersteller von Software und Hardware. Die Sicherheitsupdates schlie\u00dfen unterschiedliche Sicherheitsl\u00fccken, \u00fcber die kriminelle Hacker Schadsoftware ausf\u00fchren und pers\u00f6nliche Daten abgreifen k\u00f6nnen.\r\n\r\nHier finden Sie ausgew\u00e4hlte Hersteller, die heute oder diese Woche Sicherheitsupdates ver\u00f6ffentlicht haben:\r\n\r\n1. Google\r\n\r\nDas US-Unternehmen warnt zurzeit vor einer Sicherheitsl\u00fccke im Browser Chrome. Diese produziert Speicherfehler, wodurch Kriminelle Schadsoftware auf fremden Computern installieren und ausf\u00fchren k\u00f6nnen. F\u00fcr einem Missbrauch der Schwachstelle reicht es aus, eine mit der Schadsoftware infizierte Webseite aufzurufen bzw. einen Link zu einer solchen Seite anzuklicken. Weitere Details nannte Google aber nicht.\r\n\r\nDas Risiko wird von Google selbst, aber auch vom Bundesamt f\u00fcr Sicherheit in der Informationstechnik (BS) als sehr hoch eingesch\u00e4tzt. Die Sicherheitsl\u00fccke soll auch bereits von Hackern ausgenutzt worden sein.\r\n\r\nSiBa r\u00e4t zur Aktualisierung des Browsers auf die Version 94.0.4606.61. Das geht so: Sie klicken auf die drei Punkte oben rechts und w\u00e4hlen im Men\u00fc \u0022Hilfe\u0022 und klicken dann auf \u0022\u00dcber Google Chrome\u0022. Das Update wird daraufhin automatisch installiert.\r\n\r\n2. Microsoft\r\n\r\nDie oben genannte Sicherheitsl\u00fccke betrifft auch den Browser Edge des US-Unternehmens Microsoft, da dieser mit dem gleichen Grundger\u00fcst entwickelt wurde.\r\n\r\nDas Risko ist hier ebenfalls sehr hoch.\r\n\r\nAuch hier empfiehlt SiBa eine Akutalisierung auf die Version 94.0.992.31. Das geht so: Sie klicken auf die drei Punkte oben rechts und w\u00e4hlen im Men\u00fc \u0022Hilfe und Feedback\u0022 und dann auf \u0022Infos zu Microsoft Edge\u0022. Das Update startet schlie\u00dflich ohne ihr Zutun. \r\n\r\n3. D-Link\r\n\r\nDer taiwanische Hardware-Hersteller hat Sicherheitsupdates f\u00fcr die Router DIR-X1560 und DIR-X6060 zur Verf\u00fcgung gestellt. Das Sicherheitsupdate behebt Fehler in der Verschl\u00fcsselung WPA2 und WPA3. \u00dcber die Fehler k\u00f6nnen Angreifer Zugriff auf das WLAN-Netzwerk erlangen, f\u00fcr Verbindungsabbr\u00fcche sorgen oder die Internetverbindung st\u00f6ren. Wie genau ist unklar, D-Link macht hier keine konkreten Angaben.\r\n\r\nAuch die Risiko-Einstufung wurde vom Hersteller nicht genannt. D-Link sagt aber, dass das Sicherheitsupdate umgehend zu installieren ist, um Attacken zu verhindern.\r\n\r\nSiBa r\u00e4t, in den Einstellungen der genannten Router die Firmware (die Software im Ger\u00e4t) auf die Versionen 1.04B04 (DIR-X1560) bzw 1.02B01 (DIR-X6060) zu aktualieren bzw. zu pr\u00fcfen, ob das automatisch passiert. Wie das geht, finden Sie im Handbuch Ihres Routers. Generrell sollte Sie regelm\u00e4\u00dfig pr\u00fcfen, ob die Firmware in Ihrem Router sich auf dem aktuellen Stand befindet. Sofern m\u00f6glich, aktivieren Sie in den Einstellungen Ihrers Routers die automatische Aktualisierung der Firmware. Sie dann umgehend gesch\u00fctzt, sobald ein Update vorliegt. \r\n",
+    "categories": ["41"],
+    "url_action": [
+      {
+        "url": "https://www.t-online.de/digital/sicherheit/id_100002446/sicherheitsluecke-in-edge-und-chrome-browsern-jetzt-updaten-.html",
+        "title": "T-Online: Gef\u00e4hrliche L\u00fccke in Chrome-Browser \u2013 jetzt updaten"
+      },
+      {
+        "url": "https://www.heise.de/news/Sicherheitsupdates-D-Link-Angreifer-koennten-WLAN-Verbindung-von-Clients-kappen-6203826.html",
+        "title": "Heise.de: Sicherheitsupdates D-Link: Angreifer k\u00f6nnten WLAN-Verbindung von Clients kappen "
+      }
+    ],
+    "url_explanation": [
+      {
+        "url": "https://www.cyberfibel.de/digitale-kompetenzen/geraete-und-software-sicher-einrichten-und-pflegen/software-aktuell-halten",
+        "title": "Cyberfibel: Software aktuell halten"
+      },
+      {
+        "url": "https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Cyber-Sicherheitsempfehlungen/Updates-Browser-Open-Source-Software/Wichtige-Softwareupdates/wichtige-softwareupdates_node.html",
+        "title": "BSI: Softwareupdates \u2013 ein Grundpfeiler der IT-Sicherheit"
+      }
+    ],
+    "id": "4778"
+  },
+  {
+    "published_date": "1632297600",
+    "level": "1",
+    "title": "Update-Mittwoch: Apple, Apache, McAfee und VMware schlie\u00dfen Sicherheitsl\u00fccken",
+    "body": "SiBa informiert Sie jeden Mittwoch \u00fcber Sicherheitsupdates. Diese schlie\u00dfen Sicherheitsl\u00fccken in Anwendungen und Betriebssystemen, sodass kriminelle Hacker \u00fcber sie keine pers\u00f6nlichen oder vertraulichen Daten mehr abgreifen und keine Systeme mehr mit Schadsoftware angreifen k\u00f6nnen. Oder sie bieten neue Features f\u00fcr den Schutz von privaten Daten.\r\n\r\nSiBa r\u00e4t, den Mittwoch zu nutzen, um die zur Verf\u00fcgung gestellten Sicherheitsupdates zu installieren, sofern das nicht automatisch geschieht.\r\n\r\n1. Apple\r\n\r\nApple hat bereits am Montag zahlreiche neue Updates ver\u00f6ffentlicht, f\u00fcr:\r\n\r\niOS,\r\niPadOS,\r\nmacOS,\r\nSafari und\r\niTunes.\r\n\r\nDie Updates zu iOS 15, iPadOS 15 und zu macOS Monterey bringen zahlreiche neue Funktionen zum Schutz privater Daten mit sich. So werden E-Mails mit der Anwendung \u0022Apple Mail\u0022 nun so versandt, dass die IP-Adresse des Absenders maskiert wird. Au\u00dferden k\u00f6nnen Nutzer:innen, die beim Versand von E-Mails Ihre E-Mail-Adresse nicht preisgeben wollen, jederzeit immer wieder neue zuf\u00e4llige E-Mail-Adressen erstellen. Der Browser Safari wurde \u00fcberarbeitet und unterbindet zuk\u00fcnftig die \u00dcberwachung mithilfe eines verbesserten Tracking-Schutzes. So k\u00f6nnen Anbieter von Onlinediensten zuk\u00fcnftig nicht mehr website\u00fcbergreifende Aktivit\u00e4ten von Nutzenden erfassen und keine Profile mehr f\u00fcr die Darstellung personalisierter Werbung erstellen. Au\u00dferdem wird mit der neuen Funktion \u0022iCloud Private Relay\u0022 der Datenverkehr auf dem Ger\u00e4t verschl\u00fcsselt. Mit dem neuen \u0022App Privacy Report\u0022 bei iPadOS und iOS bietet Apple ab sofort eine \u00dcbersicht an, mit der \u00fcberpr\u00fcft werden kann, welche Apps in den letzten 7 Tagen auf Fotos, Kamera, Mikrofon oder auf Kontakte zugegriffen haben. Nutzer:innen k\u00f6nnen dies weiter erlauben oder unterbinden. Der \u0022App Privacy Report\u0022 zeigt auch an, welche privaten Daten mit welchen Drittanbietern geteilt wurden.\r\n\r\nDar\u00fcber hinaus hat Apple bereits vor einer Woche f\u00fcr iOS und iPadOS das Sicherheitsupdate 14.8 ver\u00f6ffentlicht, welches Sicherheitsl\u00fccken schlie\u00dft, \u00fcber das Sp\u00e4hsoftware in die Ger\u00e4te eingeschleust werden kann. SiBa berichtete bereits letzte Woche.\r\n\r\nAu\u00dferdem stehen neue Sicherheitsupdates f\u00fcr die Software iTunes und f\u00fcr den Browser Safari im Betriebssystem macOS bereit. Beide schlie\u00dfen eine Schwachstelle, die von Kriminellen ausgenutzt werden kann, um Schadsoftware \u00fcber die Rechteverwaltung auszuf\u00fchren. F\u00fcr macOS selbst stehen auch Sicherheitsupdates zur Verf\u00fcgung, welche Sicherheitsl\u00fccken schlie\u00dfen, \u00fcber die Administrationsrechte ver\u00e4ndert werden k\u00f6nnen, was dazu f\u00fchrt, dass Sicherheitsvorkehrungen umgangen werden k\u00f6nnen. Das erlaubt das Abgreifen privater Daten und das Ausf\u00fchren von Schadsoftware.\r\n\r\n2. Apache OpenOffice\r\n\r\nAuch f\u00fcr die Office-L\u00f6sung \u0022Open Office\u0022 von Apache stehen Sicherheitsupdates bereit. Bei der Aktualisierung auf die Version 4.1.10 wird eine Sicherheitsl\u00fccke geschlossen, \u00fcber die Kriminelle Schadsoftware auf fremde Rechner installieren und ausf\u00fchren k\u00f6nnen. Das Bundesamt f\u00fcr Sicherheit in der Informationstechnik stuft das Risiko als \u0022mittel\u0022 ein.\r\n\r\n3. McAfee Endpoint Security\r\n\r\nIn der Software Endpoint Security (ENS) von McAfee haben Sicherheitsexperten zwei Sicherheitsl\u00fccken gefunden und geschlossen. \u00dcber diese k\u00f6nnen Angreifer unbefugt auf Dateien zugreifen und Abst\u00fcrze verursachen. Betroffen sind ausschlie\u00dfich Windows-Systeme. McAfee stuft das Risiko bei der einen L\u00fccke als hoch ein, bei der anderen als mittel.\r\n\r\n4. VMware vCenter Server\r\n\r\nHeise.de berichtet aktuell auch von Schwachstellen im Verwaltungsprogramm f\u00fcr virtuelle Maschinen vCenter Server von VMware. Administratoren, die \u00fcber das Programm Server verwalten, sollten die von den Entwicklern zur Verf\u00fcgung gestellten Sicherheitsupdates installieren, um zu verhindern, dass \u00fcber die Sicherheitsl\u00fccken Schadsoftware eingeschleust und ausgef\u00fchrt werden kann. Das Risiko sei hoch, so VMware.",
+    "categories": ["37", "42", "45"],
+    "url_action": [
+      {
+        "url": "https://www.apple.com/de/newsroom/2021/06/apple-advances-its-privacy-leadership-with-ios-15-ipados-15-macos-monterey-and-watchos-8/",
+        "title": "Apple.com: Apple baut seine F\u00fchrungsposition beim Datenschutz weiter aus "
+      },
+      {
+        "url": "https://www.macerkopf.de/2021/09/22/ios15-macos-monterey-co-apple/",
+        "title": "Macerkopf.de: Apple legt verst\u00e4rkten Fokus auch Datenschutz ..."
+      },
+      {
+        "url": "https://www.bsi.bund.de/SharedDocs/Warnmeldungen/DE/TW/2021/09/warnmeldung_tw-t21-0186.html",
+        "title": "BSI: Apache OpenOffice: Schwachstelle erm\u00f6glicht Ausf\u00fchren von beliebigem Programmcode ..."
+      },
+      {
+        "url": "https://www.heise.de/news/Sicherheitsupdates-Luecken-in-McAfee-Endpoint-Security-gefaehrden-Windows-PCs-6197083.html",
+        "title": "Heise.de: L\u00fccken in McAfee Endpoint Security gef\u00e4hrden Windows-PCs "
+      },
+      {
+        "url": "https://www.heise.de/news/Wichtige-Sicherheitsupdates-VMware-vCenter-Server-ist-vielfaeltig-angreifbar-6198240.html",
+        "title": "Heise.de: VMware vCenter Server ist vielf\u00e4ltig angreifbar "
+      }
+    ],
+    "url_explanation": [
+      {
+        "url": "https://www.cyberfibel.de/digitale-kompetenzen/geraete-und-software-sicher-einrichten-und-pflegen/software-aktuell-halten",
+        "title": "Cyberfibel: Software aktuell halten"
+      },
+      {
+        "url": "https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Cyber-Sicherheitsempfehlungen/Updates-Browser-Open-Source-Software/Wichtige-Softwareupdates/wichtige-softwareupdates_node.html",
+        "title": "BSI: Softwareupdates \u2013 ein Grundpfeiler der IT-Sicherheit"
+      }
+    ],
+    "id": "4771"
+  },
+  {
+    "published_date": "1632128400",
+    "level": "0",
+    "title": "Phishing: Gef\u00e4lschte E-Mails im Namen der Sparkasse im Umlauf",
+    "body": "Die Verbraucherzentrale Sachsen-Anhalt warnt zurzeit vor gef\u00e4lschten E-Mails, die Kriminelle im Namen der Sparkasse versenden. Diese E-Mails zielen alle darauf ab, pers\u00f6nliche Daten zu erbeuten. Dazu wird ein Trick angewandt: In der E-Mail wird behauptet, es g\u00e4be ein neues Sicherheitsverfahren namens \u0022S-Cert\u0022. Dieses diene angeblich der Verschl\u00fcsselung der Kundendaten und sei daher sicherer als der Vorg\u00e4nger. Die Kriminellen behaupten in der E-Mail, das neue Verfahren sei aufgrund einer neuen Datenschutzrefom eingef\u00fchrt worden. Diese gibt es aber nicht.\r\n\r\nDie Empf\u00e4nger der E-Mail werden darum gebeten, sich mittels Link \u00fcber die \u00c4nderung zu informieren und das neue Sicherheitsverfahren einzurichten. Mit dem Klicken auf dem Link sei man gleich eingeloggt. \u0022Genau das sollten Verbraucher nicht tun, sondern die Mail unbeantwortet in den Spamordner verschieben, um sich vor m\u00f6glichem Datenmissbrauch zu sch\u00fctzen\u0022, so die Warnung der Verbraucherzentrale. Klickt man trotzdem auf den Link, wird man auf eine gef\u00e4lschte Webseite der Sparkasse geleitet. Gibt man dort seine privaten Daten wie z. B. Kontonummer, Passwort, PIN und so weiter ein, gelangen sie umgehend zu den Kriminellen. Diese Daten werden dann in Hackerforen verkauft oder f\u00fcr weitere illegale Betr\u00fcgereien missbraucht.\r\n\r\nHierbei handelt es nicht um einen Einzelfall. Immer wieder tauchen E-Mails in Posteing\u00e4ngen auf, die vorgeben, von Banken zu stammen, zuletzt von der Postbank, von den Volksbanken-Raiffeisenbanken oder von der Hanseatic Bank. In allen E-Mails versuchen die Betr\u00fcger immer wieder, die Aufmerksamkeit auf das Klicken eines Links zu lenken. Immer wieder geht es vermeintlich um Sicherheitsprobleme, die gel\u00f6st werden m\u00fcssten: Das Konto bei der Bank sei aufgrund zu vieler Anmeldeversuche gesperrt worden, es gebe eine Pflichtumstellung auf ein neues System bei der Bank (bei den E-Mails im Namen der Volksbanken zum Beispiel \u0022VRSecureGO\u0022) oder irgendwelche Unstimmigkeiten solle man als Kunde umgehend pr\u00fcfen. Durch die Dringlichkeit, die die Kriminellen vorgeben, ist man im Stress. In der Eile vergisst man oft, dass es sich um Phishing handelt. Schnell sind dann die Daten auf den gef\u00e4lschten Webseiten eingegeben.\r\n\r\nSowohl die E-Mails als auch die Webseiten sehen immer wieder t\u00e4uschend echt aus. Um die E-Mails von jenen zu unterscheiden, die tats\u00e4chlich von der Sparkasse oder von einer anderen Bank stammen, r\u00e4t SiBa zu den folgenden Vorsichtsma\u00dfnahmen: Pr\u00fcfen Sie, ob Sie in der E-Mail mit Ihrem Namen angesprochen werden. Ist dem nicht so, handelt es sich h\u00f6chstwahrscheinlich um einen Phishing-Versuch. Pr\u00fcfen Sie die vollst\u00e4ndige E-Mail-Adresse des Absenders. Handelt es sich um eine offizielle E-Mail-Adresse, endet diese mit @sparkasse.de oder mit der Adresse Ihrer Bank (z. B. @postbank.de) oder wirkt sie merkw\u00fcrdig kryptisch oder viel zu lang? Gleiches gilt auch f\u00fcr die Webseite: Ist die Web-Adresse (www.sparkasse.de oder www.postbank.de) identitisch mit der, die Sie sonst aufrufen oder ist sie ganz anders oder viel l\u00e4nger? Auch zahlreiche Rechtschreibfehler sind ein Indikator f\u00fcr Phishing-Versuche. Sind Sie sich unsicher, ob es tats\u00e4chlich Unklarheiten bei Ihrem Konto gibt, k\u00f6nnen Sie sich auch unabh\u00e4ngig von der E-Mail - ohne auf den Link zu klicken - Ihren Browser \u00f6ffnen, die Webseite Ihrer Bank eingeben und sich ins Online-Banking einloggen. Gibt es tats\u00e4chlich Unregelm\u00e4\u00dfigkeiten oder Probleme, werden Sie nach dem Einloggen von Ihrer Bank darauf hingewiesen. In der Regel ist dem aber nicht so. Im Zweifel k\u00f6nnen Sie sich auch telefonisch an die jeweilige Kundenbetreuung wenden. Diese teilt Ihnen auch mit, was zu tun ist, wenn Sie Opfer eines Phishing-Angriffs wurden. SiBa r\u00e4t Ihnen in diesem Fall den Gang zur Polizei, um Anzeige zu erstatten.\r\n",
+    "categories": ["37"],
+    "url_action": [
+      {
+        "url": "https://www.verbraucherzentrale-sachsen-anhalt.de/wissen/digitale-welt/phishingradar/phishingradar-aktuelle-warnungen-6059",
+        "title": "VZ Sachsen-Anhalt: Phishing-Welle trifft Sparkasse"
+      }
+    ],
+    "url_explanation": [
+      {
+        "url": "https://www.sicher-im-netz.de/phishing-im-netz-erkennen-und-vorbeugen",
+        "title": "DsiN: Phishing im Netz erkennen und vorbeugen"
+      },
+      {
+        "url": "https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Cyber-Sicherheitslage/Methoden-der-Cyber-Kriminalitaet/Spam-Phishing-Co/Passwortdiebstahl-durch-Phishing/passwortdiebstahl-durch-phishing_node.html;jsessionid=B3F83FFC1CD4A777E87255DBF218EA41.internet472",
+        "title": "BSI: Phishing E-Mails \u2013 Passwortdiebstahl durch Phishing"
+      }
+    ],
+    "id": "4765"
+  },
+  {
+    "published_date": "1631701800",
+    "level": "1",
+    "title": "Update-Mittwoch: Microsoft, Apple, Adobe und Google schlie\u00dfen Sicherheitsl\u00fccken",
+    "body": "SiBa informiert Sie nun schon seit vielen Jahren tagesaktuell \u00fcber IT-Sicherheitsrisiken und vermittelt Ihnen praktische Tipps f\u00fcr Ihren Selbstschutz. Zu den wichtigsten Ratschl\u00e4gen f\u00fcr mehr IT-Sicherheit geh\u00f6rt das Installieren von Sicherheitsupdates. Sie schlie\u00dfen Sicherheitsl\u00fccken in Softwareanwendungen und Betriebssystemen, sodass kriminelle Hacker \u00fcber diese keine pers\u00f6nlichen oder vertraulichen Daten mehr abgreifen und keine Systeme mehr mit Schadsoftware angreifen k\u00f6nnen.\r\n\r\nSicherheitsupdates ver\u00f6ffentlichen Hersteller h\u00e4ufig an sogenannten \u0022Patchdays\u0022. Das sind in der Regel Dienstage. Entsprechende Meldungen ver\u00f6ffentlicht die Fach-Prese mittwochs. So nun auch SiBa: Zuk\u00fcnftig werden wir Sie jeden Mittwoch \u00fcber Sicherheitsupdates zahlreicher Hersteller informieren. Und wir beginnen mit dem \u0022Update-Mittwoch\u0022 heute.\r\n\r\nSiBa r\u00e4t, den Mittwoch zu nutzen, um die zur Verf\u00fcgung gestellten Sicherheitsupdates zu installieren, sofern das nicht automatisch geschieht.\r\n\r\n1. Microsoft\r\n\r\nDas US-Unternehmen hat Sicherheitsupdates zu den folgenden Anwendungen bereitgestellt:\r\n\r\n Windows\r\n Edge\r\n Office\r\n Sharepoint Server\r\n\r\nDie Updates schlie\u00dfen L\u00fccken, \u00fcber die Schadsoftware auf Windows-PCs eingeschleust werden kann. Die Schwachstellen im Browser Edge wurden bereits ausgenutzt. Das Windows-Update schlie\u00dft Schwachstellen, die bereits seit Juli bekannt sind.\r\nDas Bundesamt f\u00fcr Sicherheit in der Informationstechnik bewertet das Sicherheitsrisko als hoch.\r\n\r\n2. Apple\r\n\r\nApple hat bereits am Montag Sicherheitsupdates ver\u00f6ffentlich, f\u00fcr:\r\n\r\n macOS Big Sur\r\n macOS Catalina\r\n iOS\r\n iPadOS\r\n Safari\r\n\r\nDie Updates schlie\u00dfen Schwachstellen, die bereits von Hackern missbraucht wurden, vor allem zur Bedrohung von Personen \u00fcber Messages und zur Installation von Sp\u00e4hsoftware. \u00dcber die Schwachstelle bei Safari ist es Hackern m\u00f6glich, Schadsoftware auf fremden Macs zu installieren.\r\nDas Bundesamt f\u00fcr Sicherheit in der Informationstechnik bewertet das Sicherheitsrisko hier ebenfalls als hoch.\r\nSIBa r\u00e4t vor allem Mandatstragende und Kandidierende f\u00fcr die Bundestagswahl oder zu den Landtagen zur Installation der von Apple bereitgestellten Updates.\r\n\r\nDar\u00fcber hinaus hat Apple angek\u00fcndigt, am 20. September iOS 15 und iPadOS 15 zu ver\u00f6ffentlichen. Das umfangreiche Update geht mit zahlreichen neuen Sicherheits- und Datenschutzeinstellungen einher.\r\n\r\n3. Adobe\r\n\r\nF\u00fcr fast jede Software hat Adobe Sicherheitsupdates zur Verf\u00fcgung gestellt, darunter:\r\n\r\n Acrobat und Acrobat Reader\r\n InCopy\r\n InDesign\r\n Photoshop und Photoshop Elements\r\n Premiere Pro\r\n\r\n\u00dcber verschiedene Schwachstellen in den Anwendungen k\u00f6nnen Kriminelle Schadsoftware auf Fremd-Rechnern installieren. Betroffen sind Macs und Windows-PCs.\r\n\r\n4. Google\r\n\r\nAuch Google hat ein Sicherheitsupdate bereitsgestellt, f\u00fcr den Browser Chrome. \u00c4hnlich wie bei Microsoft Edge kann \u00fcber eine Schwachstelle im Chrome-Browser Schadsoftware auf Rechnern eingeschleust werden. Dazu gen\u00fcgt es, eine schadhafte Webseite zu \u00f6ffnen\r\n",
+    "categories": ["37", "41", "42", "45"],
+    "url_action": [
+      {
+        "url": "https://www.heise.de/news/Patchday-Microsoft-schliesst-von-Angreifern-ausgenutzte-Luecke-in-Windows-6192327.html",
+        "title": "Heise.de: Microsoft schlie\u00dft von Angreifern ausgenutzte L\u00fccke in Windows "
+      },
+      {
+        "url": "https://www.heise.de/news/Patchday-Adobe-schliesst-Schadcode-Luecken-in-Photoshop-Co-6192382.html",
+        "title": "Heise.de: Adobe schlie\u00dft Schadcode-L\u00fccken in Photoshop \u0026 Co. "
+      },
+      {
+        "url": "https://www.heise.de/news/NSO-Skandal-Apple-Updates-beheben-endlich-Pegasus-Luecke-6191067.html",
+        "title": "Heise.de: Apple-Updates beheben endlich Pegasus-L\u00fccke"
+      },
+      {
+        "url": "https://www.heise.de/news/Jetzt-patchen-Erneut-Exploit-Code-fuer-Chrome-Luecken-in-Umlauf-6191051.html",
+        "title": "Heise.de: Jetzt patchen! Erneut Exploit-Code f\u00fcr Chrome-L\u00fccken in Umlauf "
+      }
+    ],
+    "url_explanation": [
+      {
+        "url": "https://www.security-insider.de/was-ist-der-patchday-a-667650/",
+        "title": "Security-Insider: Was ist der Patchday?"
+      },
+      {
+        "url": "https://www.cyberfibel.de/digitale-kompetenzen/geraete-und-software-sicher-einrichten-und-pflegen/software-aktuell-halten",
+        "title": "Cyberfibel: Software aktuell halten"
+      }
+    ],
+    "id": "4760"
+  }
+]
