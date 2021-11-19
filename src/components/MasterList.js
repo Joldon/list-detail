@@ -30,15 +30,15 @@ const MasterList = () => {
           ))}
         </div>
       </div>
-      <div className=".detailed-view-container">
-        <div className="sub-container">
+      <div className=".detailed-view">
+        {/* <div className="sub-container"> */}
           <Routes>
             <Route
               path="article/:id"
               element={<DetailView articles={articles} />}
             />
           </Routes>
-        </div>
+        {/* </div> */}
       </div>
     </div>
   );
