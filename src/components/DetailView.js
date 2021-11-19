@@ -10,7 +10,7 @@ const DetailView = ({articles}) => {
       console.log(articles)
     
       return article.length === 1 && (
-        <div className="full-article">
+        <div className="detailed-view-container">
           title={article[0].title}
           level={article[0].level}
           body={article[0].body}

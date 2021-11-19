@@ -22,7 +22,7 @@ const MasterList = () => {
   //   }, []);
 
   return (
-    <div>
+    <div className='container'>
       <div className="master-list">
         <div className="sub-container">
           {articles.map(({ title, body, id }) => (
